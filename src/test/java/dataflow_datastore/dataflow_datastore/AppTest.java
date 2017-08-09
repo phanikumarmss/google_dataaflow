@@ -1,4 +1,4 @@
-package pubsub.pubsub;
+package dataflow_datastore.dataflow_datastore;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
